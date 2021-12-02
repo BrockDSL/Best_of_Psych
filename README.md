@@ -36,7 +36,7 @@ This session will provide you with the very basics of how to read and write Pyth
 
 Part 2 will build on what was started in part 1. This time we'll expand our understanding of how Python works by introducing the Pandas Library, and will focus on how one can peform some analysis on our data using Python. This will include some fairly complex statistical analysis and also graphing some visualizations using the MatPlotLib and Seaborn Libraries.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Best_of_Psych/blob/main/YoutubeVideo2%20(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Best_of_Psych/blob/main/YoutubeVideo2%20(2).ipynb)
 
 ----
 
