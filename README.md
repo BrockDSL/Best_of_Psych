@@ -27,7 +27,7 @@ The dataset used for this workshop series can be found at https://www.kaggle.com
 
 This session will provide you with the very basics of how to read and write Python code. We'll be using the Google Collab environment to learn so no extra software installation will be required. By the end of the sessions you'll be comfortable with the basics of Python which includes: variables, conditionals, loops, and writing function.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Best_of_Psych/blob/main/FinalYoutubeVideo1Exercises.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Best_of_Psych/blob/main/FinalYoutubeVideo1Exercises%20(1).ipynb)
 
 
 ### Session 2: Python and Data Science in Psychology
